@@ -12,3 +12,6 @@ if __name__ == "__main__":
 
     result = sum_two_numbers(5, 7)
     print("Sum:", result)
+    
+def multiply(a, b):
+    return a * b
